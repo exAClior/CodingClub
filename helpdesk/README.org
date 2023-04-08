@@ -68,6 +68,7 @@ that once a branch has been deleted, you cannot restore its commit history.
 - [[https://learngitbranching.js.org/?locale=zh_CN]]
 - [[https://missing.csail.mit.edu/2020/version-control/][Missing semester video]]
 - [[https://git-scm.com/book/en/v2]]
+- [[https://www.youtube.com/watch?v=in_H8MbiHpw][Github cli tutorial]]
 
 * Julia Package Management
 - This section is really well presented by Prof Liu at [[https://github.com/exAClior/CodingClub/blob/main/julia-packages/README.md][here]] and [[https://github.com/exAClior/CodingClub/blob/main/julia/2.first-package.md][here]].
